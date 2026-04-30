@@ -1,32 +1,9 @@
 <html>
 <head>
 <title>Doctor Form</title>
+<link rel="stylesheet" href="/css/style.css">
 
-<style>
-    body {
-        font-family: Arial;
-        background-color: #f4f6f8;
-        padding: 20px;
-    }
 
-    input {
-        margin: 8px;
-        padding: 6px;
-        width: 200px;
-    }
-
-    button {
-        padding: 8px 12px;
-        background-color: green;
-        color: white;
-        border: none;
-        cursor: pointer;
-    }
-
-    button:hover {
-        background-color: darkgreen;
-    }
-</style>
 
 </head>
 <body>

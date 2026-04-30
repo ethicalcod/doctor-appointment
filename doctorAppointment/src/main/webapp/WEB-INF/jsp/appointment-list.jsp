@@ -1,6 +1,7 @@
 <%@ taglib uri="jakarta.tags.core" prefix="c" %>
 
 <html>
+    <head><link rel="stylesheet" href="/css/style.css"></head>
 <body>
 
 <h2>Appointments</h2>

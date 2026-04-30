@@ -3,58 +3,9 @@
 <html>
 <head>
     <title>Doctors</title>
+    <link rel="stylesheet" href="/css/style.css">
     
-    <style>
-        body {
-            font-family: Arial;
-            background-color: #f4f6f8;
-            padding: 20px;
-        }
-
-        h2 {
-            color: #333;
-        }
-
-        a {
-            text-decoration: none;
-            color: blue;
-            font-weight: bold;
-        }
-
-        table {
-            border-collapse: collapse;
-            width: 80%;
-            background: white;
-        }
-
-        th {
-            background-color: #4CAF50;
-            color: white;
-        }
-
-        th, td {
-            padding: 10px;
-            border: 1px solid #ddd;
-            text-align: center;
-        }
-
-        tr:hover {
-            background-color: #f1f1f1;
-        }
-
-        .btn {
-            padding: 6px 10px;
-            border-radius: 4px;
-        }
-
-        .edit {
-            color: green;
-        }
-
-        .delete {
-            color: red;
-        }
-    </style>
+    
 </head>
 <body>
 

@@ -2,6 +2,7 @@
 
 <html>
     <title>Appointments</title>
+    <head><link rel="stylesheet" href="/css/style.css"></head>
 <body>
 
 <h2>Add / Update Appointment</h2>
