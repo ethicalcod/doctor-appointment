@@ -60,7 +60,7 @@
 
 <h2>Doctor List</h2>
 
-<a href="new">Add Doctor</a>
+<a href="/doctors/new">Add Doctor</a>
 
 <br/><br/>
 
@@ -80,8 +80,8 @@
     <td>${d.specialization}</td>
     <td>${d.email}</td>
     <td>
-        <a href="edit/${d.id}">Edit</a> |
-        <a href="delete/${d.id}">Delete</a>
+        <a href="/doctors/edit/${d.id}">Edit</a> |
+        <a href="/doctors/delete/${d.id}">Delete</a>
     </td>
 </tr>
 </c:forEach>

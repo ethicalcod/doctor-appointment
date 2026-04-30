@@ -33,7 +33,7 @@
 
 <h2>Add / Update Doctor</h2>
 
-<form action="save" method="post">
+<form action="/doctors/save" method="post">
 
     <input type="hidden" name="id" value="${doctor.id}" />
 
@@ -45,7 +45,7 @@
 </form>
 
 <br/>
-<a href="list">Go Back</a>
+<a href="/doctors/list">Go Back</a>
 
 </body>
 </html>

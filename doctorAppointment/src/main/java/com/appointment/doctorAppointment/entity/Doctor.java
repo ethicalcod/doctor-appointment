@@ -1,5 +1,5 @@
 package com.appointment.doctorAppointment.entity;
-
+import java.util.List;
 import jakarta.persistence.*;
 
 @Entity
@@ -24,4 +24,7 @@ public class Doctor {
 
     public String getEmail() { return email; }
     public void setEmail(String email) { this.email = email; }
+
+    @OneToMany(mappedBy = "doctor", cascade = CascadeType.ALL)
+    private List<Appointment> appointments;
 }
