@@ -1,0 +1,10 @@
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Abhai Trehan', 'Cardiology', 'abhait@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Bhavna', 'Neurology', 'bhavna@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Dinesh Manocha', 'Orthopedic', 'manochadinesh@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Vyom Dixit', 'Dermatology', 'dixvyom@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Ajay Khanna', 'Pediatrics', 'Ajayk@yahoomail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Parul Patel', 'ENT', 'parul34@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Gayatri', 'Oncology', 'gayatri45@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Sanjay Parikh', 'Psychiatry', 'parikhs@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Manav', 'Radiology', 'manav30@gmail.com');
+INSERT INTO DOCTOR (name, specialization, email) VALUES ('Dr Sahaj Mirchandani', 'General', 'Sahaj@gmail.com');
