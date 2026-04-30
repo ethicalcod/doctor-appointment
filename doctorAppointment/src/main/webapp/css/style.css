@@ -30,7 +30,7 @@ table {
 }
 
 table th {
-    background-color: #007bff;
+    background-color: #21496a;
     color: white;
     padding: 10px;
 }
@@ -51,7 +51,7 @@ a, button {
     padding: 6px 12px;
     border-radius: 5px;
     color: white;
-    background-color: #007bff;
+    background-color: #0091ff;
     border: none;
     cursor: pointer;
 }
